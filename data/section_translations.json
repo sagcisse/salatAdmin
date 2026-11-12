@@ -1,4 +1,14 @@
 [
 {"section_id":"ZOWNazHY7mLRf6qtKaZR","language_code":"ar","title":"المدائح","description":"مدح النبي ﷺ","id":"ZOWNazHY7mLRf6qtKaZR__ar","created_at":"2026-11-12T02:13:42.646Z","updated_at":"2026-11-12T02:13:42.646Z","public":true},
-{"section_id":"CVp550ECzBwevAGC5RJN","language_code":"ar","title":"قصائد","description":null,"id":"CVp550ECzBwevAGC5RJN__ar","created_at":"2026-11-12T02:54:49.662Z","updated_at":"2026-11-12T02:54:49.662Z","public":true}
+{"section_id":"CVp550ECzBwevAGC5RJN","language_code":"ar","title":"قصائد","description":null,"id":"CVp550ECzBwevAGC5RJN__ar","created_at":"2026-11-12T02:54:49.662Z","updated_at":"2026-11-12T02:54:49.662Z","public":true},
+{"section_id":"IluDe7lUMmU8w9WV58dv","language_code":"ar","title":"رَوْضَةُ الصَّلَوَاتِ النَّبَوِيَّةِ","description":null,"id":"IluDe7lUMmU8w9WV58dv__ar","created_at":"2026-11-12T03:29:34.698Z","updated_at":"2026-11-12T03:29:34.698Z","public":true},
+{"section_id":"IluDe7lUMmU8w9WV58dv","language_code":"en","title":"Garden of Prayers upon the Prophet","description":null,"id":"IluDe7lUMmU8w9WV58dv__en","created_at":"2026-11-12T03:29:34.700Z","updated_at":"2026-11-12T03:29:34.700Z","public":true},
+{"section_id":"IluDe7lUMmU8w9WV58dv","language_code":"fr","title":"Jardin des prières sur le Prophète","description":null,"id":"IluDe7lUMmU8w9WV58dv__fr","created_at":"2026-11-12T03:29:34.700Z","updated_at":"2026-11-12T03:29:34.700Z","public":true},
+{"section_id":"IluDe7lUMmU8w9WV58dv","language_code":"tr","title":"Hz. Peygamber'e Salavat Bahçesi","description":null,"id":"IluDe7lUMmU8w9WV58dv__tr","created_at":"2026-11-12T03:29:34.701Z","updated_at":"2026-11-12T03:29:34.701Z","public":true},
+{"section_id":"IluDe7lUMmU8w9WV58dv","language_code":"id","title":"Taman Salawat kepada Nabi","description":null,"id":"IluDe7lUMmU8w9WV58dv__id","created_at":"2026-11-12T03:29:34.701Z","updated_at":"2026-11-12T03:29:34.701Z","public":true},
+{"section_id":"gWwijUVV3onRYmhXT83u","language_code":"ar","title":"الأدعية والأوراد","description":null,"id":"gWwijUVV3onRYmhXT83u__ar","created_at":"2026-11-12T03:29:34.702Z","updated_at":"2026-11-12T03:29:34.702Z","public":true},
+{"section_id":"gWwijUVV3onRYmhXT83u","language_code":"en","title":"Supplications and Litanies","description":null,"id":"gWwijUVV3onRYmhXT83u__en","created_at":"2026-11-12T03:29:34.702Z","updated_at":"2026-11-12T03:29:34.702Z","public":true},
+{"section_id":"gWwijUVV3onRYmhXT83u","language_code":"fr","title":"Invocations et litanies","description":null,"id":"gWwijUVV3onRYmhXT83u__fr","created_at":"2026-11-12T03:29:34.702Z","updated_at":"2026-11-12T03:29:34.702Z","public":true},
+{"section_id":"gWwijUVV3onRYmhXT83u","language_code":"tr","title":"Dualar ve Evrad","description":null,"id":"gWwijUVV3onRYmhXT83u__tr","created_at":"2026-11-12T03:29:34.703Z","updated_at":"2026-11-12T03:29:34.703Z","public":true},
+{"section_id":"gWwijUVV3onRYmhXT83u","language_code":"id","title":"Doa dan Wirid","description":null,"id":"gWwijUVV3onRYmhXT83u__id","created_at":"2026-11-12T03:29:34.703Z","updated_at":"2026-11-12T03:29:34.703Z","public":true}
 ]
